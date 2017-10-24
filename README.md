@@ -97,7 +97,7 @@ Chinese translation of the Github Help(https://help.github.com/index.html) and t
 ##Writing on GitHub 在 Github 上写作
 
 * [Markdown Basics 关于 Markdown 的基础](Markdown Basics.md)
-* [GitHub Flavored Markdown](GitHub Flavored Markdown.md)
+* [GitHub Flavored Markdown](https://github.com/waylau/github-help/blob/master/GitHub%20Flavored%20Markdown.md)
 * [在 GitHub 上书写](Writing on GitHub.md)
 
 ##Manipulating Files 文件处理
